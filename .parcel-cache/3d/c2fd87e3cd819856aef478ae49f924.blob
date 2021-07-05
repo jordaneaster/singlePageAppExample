@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jordan Easter - Java JavaScript</title>
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <nav class="nav">
+          <a href="/"><button class="homeBtn" data-link="">Home</button></a>
+          
+          <a href="/myProjects"><button class="projectBtn" data-link="">My Projects</button></a>
+          <a href="/myGitRepo"><button class="repoBtn" data-link="">My Git Repos</button></a>
+          <a href="/myResume"><button class="resumeBtn" data-link="">My Resume</button></a>
+          <a href="/myInspiration"><button class="museBtn" data-link="">My Inspiration</button></a>
+        </nav>
+      </header>
+
+      <div id="app"></div>
+      <footer class="footer"></footer>
+    </div>
+    <script type="module" src="ce77dcab889d9cd95d95f9cbea8ebd6b"></script>
+  </body>
+</html>
